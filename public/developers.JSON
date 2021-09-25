@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "614f69bfa604b532e5862cb5",
+    "name": "Craig Franks",
+    "profession": "Web Developer",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": "$3,550.09",
+    "img": "https://i.postimg.cc/0NTQ9zGm/01.png",
+    "experience": "3 years in web development",
+    "email": "craig.franks@yahoo.com"
+  },
+  {
+    "_id": "614f69bf1c030965f19326d7",
+    "name": "Ramiro Glover",
+    "profession": "Web Developer",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": "$1,874.19",
+    "img": "https://i.postimg.cc/qvZqZbz1/02.png",
+    "experience": "3 years in web development",
+    "email": "ramiro.glover@gmail.com"
+  },
+  {
+    "_id": "614f69bf94184cdc30e6d97f",
+    "name": "Andrew Lloyd",
+    "profession": "Web Developer",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": "$1,972.51",
+    "img": "https://i.postimg.cc/k4W5G7wH/03.png",
+    "experience": "3 years in web development",
+    "email": "andrew.lioyd@gmail.com"
+  },
+  {
+    "_id": "614f69bf6f701fb6861c1aa0",
+    "name": "Henry Ballard",
+    "profession": "Web Developer",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": "$1,580.09",
+    "img": "https://i.postimg.cc/Rh9Zn2DZ/04.png",
+    "experience": "3 years in web development",
+    "email": "henry.bellard@yahoo.com"
+  },
+  {
+    "_id": "614f69bf041cf3f7712e2ede",
+    "name": "Jermaine Reynolds",
+    "profession": "Web Developer",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": "$2,450.03",
+    "img": "https://i.postimg.cc/WznbmSB6/05.png",
+    "experience": "3 years in web development",
+    "email": "jermaine.reynolds@yahoo.com"
+  },
+  {
+    "_id": "614f69bf782254f51ec001fd",
+    "name": "Mamie Duncan",
+    "profession": "Web Developer",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": "$2,149.67",
+    "img": "https://i.postimg.cc/BQSvZ9Fh/06.png",
+    "experience": "3 years in web development",
+    "email": "mamie.ducan@gmail.com"
+  },
+  {
+    "_id": "614f69bfd36ee4a9ed675136",
+    "name": "Edna May",
+    "profession": "Web Developer",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": "$3,982.42",
+    "img": "https://i.postimg.cc/vH0ZcqLG/07.png",
+    "experience": "3 years in web development",
+    "email": "edna.may@gmail.com"
+  },
+  {
+    "_id": "614f8ab4045316951945446f",
+    "name": "Kidd Brewer",
+    "profession": "Web Developer",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": "$1,320.91",
+    "img": "https://i.postimg.cc/Hkjs5wBX/08.png",
+    "experience": "3 years in web development",
+    "email": "kidd9420@gmail.com"
+  },
+  {
+    "_id": "614f8ab4c9cb7d4cd8bdaf1f",
+    "name": "Sean Kennedy",
+    "profession": "Web Developer",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": "$1,479.29",
+    "img": "https://i.postimg.cc/dQm1Kthk/09.png",
+    "experience": "3 years in web development",
+    "email": "sean.kennedy@yahoo.com"
+  },
+  {
+    "_id": "614f8ab412abe13207203507",
+    "name": "Villarreal Dillard",
+    "profession": "Web Developer",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": "$2,870.31",
+    "img": "https://i.postimg.cc/FHqFxYBq/10.png",
+    "experience": "3 years in web development",
+    "email": "villareal1530@gmail.com"
+  },
+  {
+    "_id": "614f69bf87486e267e1c8cbe",
+    "name": "Ellis Mathews",
+    "profession": "Web Developer",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": "$2,310.67",
+    "img": "https://i.postimg.cc/MZycKmFG/11.png",
+    "experience": "3 years in web development",
+    "email": "ellis4830@yahoo.com"
+  },
+  {
+    "_id": "614f69bf9bc854d9054c429c",
+    "name": "Flora Todd",
+    "profession": "Web Developer",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": "$1,426.88",
+    "img": "https://i.postimg.cc/YqMv4L5z/12.png",
+    "experience": "3 years in web development",
+    "email": "flora1975@gmail.com"
+  },
+  {
+    "_id": "614f69bf6e6637c5bcd754af",
+    "name": "Warren Harrison",
+    "profession": "Web Developer",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": "$2,691.97",
+    "img": "https://i.postimg.cc/0NMjgYSP/13.png",
+    "experience": "3 years in web development",
+    "email": "warren2693@gmail.com"
+  },
+  {
+    "_id": "614f69bf0c772661ff8a1c10",
+    "name": "Maria Hatfield",
+    "profession": "Web Developer",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": "$1,689.51",
+    "img": "https://i.postimg.cc/K8Y4fSvK/14.png",
+    "experience": "3 years in web development",
+    "email": "maria.hatfield@gmail.com"
+  },
+  {
+    "_id": "614f69bfae448cf44ac01861",
+    "name": "Mack Bennett",
+    "profession": "Web Developer",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": "$1,690.53",
+    "img": "https://i.postimg.cc/nc2CqcZb/15.png",
+    "experience": "3 years in web development",
+    "email": "mack.bennett@gmail.com"
+  }
+]
