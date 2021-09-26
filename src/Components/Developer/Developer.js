@@ -16,12 +16,12 @@ const Developer = (props) => {
                     <h3>{name}</h3>
                     <p>Profession : {profession}</p>
                     <p>Mail: {mail}</p>
-                    <p>Salay: {salary}</p>
+                    <p>Salay: ${salary}</p>
                     <p>Skills: {skill}</p>
                     <p>Experience : {experience}</p>
                 </div>
                 <div className="card-btn">
-                    <button onClick={() => props.handleAddToList(props.developer)}>{element}  Add to list</button>
+                    <button onClick={() => props.handleAddToList(props.developer)}>{element} Add to list</button>
                 </div>
             </div>
         </div>

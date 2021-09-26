@@ -23,14 +23,12 @@ const Main = () => {
             alert('This is already added.')
         }
 
-        // console.log(newList.length)
     }
     return (
         <div className="container">
             <div className="d-grid">
                 <div className="developer">
-                    {/* <h2>Developer {developers.length}</h2> */}
-                    <div class="profile-cards">
+                    <div className="profile-cards">
                     {
                         developers.map(developer => <Developer developer={developer} key = {developer._id} handleAddToList = {handleAddToList}></Developer>)
                     }
