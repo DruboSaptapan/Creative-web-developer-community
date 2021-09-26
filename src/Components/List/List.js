@@ -10,8 +10,9 @@ const List = (props) => {
     }
 
     return (
-        <div>
+        <div className = "developer-list">
             <h3>Total developer selected: {props.list.length}</h3>
+            <hr />
             <ul>
                 {
                     list.map(developer => <li key = {developer._id}>{developer.name}</li>)

@@ -2,9 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Features of this website
 
-In the project directory, you can run:
+<ul>
+    <li>Website of creative web developer</li>
+    <li>Importance data of developers</li>
+    <li>Show their skills and experience</li>
+    <li>Hire a skillfull developer for your project</li>
+    <li>If you select any developer with your choice</li>
+</ul>
 
 ### `npm start`
 

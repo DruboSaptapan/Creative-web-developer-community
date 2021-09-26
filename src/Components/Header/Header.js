@@ -4,8 +4,8 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <div className = "container header">
-            <h1>Create a website</h1>
+        <div className = "header">
+            <h1>Creative web developer community</h1>
             <h3>Total Budget: $65000</h3>
         </div>
     );
